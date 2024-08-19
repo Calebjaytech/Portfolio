@@ -12,7 +12,7 @@ const Hero = (props) => (
         My personal Portfolio
       </SectionTitle>
         <SectionText>
-          Kindly check my website for more details and thnaks and God bless you 
+        Frontend web developer and open-source enthusiast with strong coding skills and experience in remote pair-programming. Proficient in JavaScript, ReactJs, Redux, HTML5, CSS3, Bootstrap, Tailwind, Context Api, Stripe, Sanity, Git and so on. Strong background in ICT and digital forensics. Proven ability to quickly learn and adapt to new technologies. 
           </SectionText>
           <button onClick={()=> window.location = 'https://google.com'}>Learn More</button>
     </LeftSection>
