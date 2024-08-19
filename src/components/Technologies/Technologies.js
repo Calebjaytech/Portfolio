@@ -13,7 +13,7 @@ const Technologies = () => (
 
           <DiFirebase size="3rem" />
           <ListContainer>
-            <ListTitle>Calebjayteg</ListTitle>
+            <ListTitle>HTML5</ListTitle>
             <ListParagraph>
               Exprence with python <br />
               and Django
@@ -28,7 +28,7 @@ const Technologies = () => (
 
           <DiZend size="3rem" />
           <ListContainer>
-            <ListTitle>Calebjayteg</ListTitle>
+            <ListTitle>JavaScript</ListTitle>
             <ListParagraph>
               Exprence with python <br />
               and Django
@@ -39,7 +39,7 @@ const Technologies = () => (
         </ListItem>
         <DiFirebase size="3rem" />
         <ListContainer>
-          <ListTitle>Calebjayteg</ListTitle>
+          <ListTitle>ReactJs</ListTitle>
           <ListParagraph>
             Exprence with python <br />
             and Django
