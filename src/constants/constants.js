@@ -27,7 +27,7 @@ export const projects = [
     id: 2,
   },
   {
-    title: 'Unichat',
+    title: 'Wweather APP',
     description: "This is a code repository for the corresponding video tutorial. In this video, we will create a full Realtime Chat Application",
     // image: '/images/4.jpg',
     tags: ['React', 'ChatEngine', 'Firebase'],

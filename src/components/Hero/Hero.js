@@ -14,7 +14,7 @@ const Hero = (props) => (
         <SectionText>
         Frontend web developer and open-source enthusiast with strong coding skills and experience in remote pair-programming. Proficient in JavaScript, ReactJs, Redux, HTML5, CSS3, Bootstrap, Tailwind, Context Api, Stripe, Sanity, Git and so on. Strong background in ICT and digital forensics. Proven ability to quickly learn and adapt to new technologies. 
           </SectionText>
-          <button onClick={()=> window.location = 'https://google.com'}>Learn More</button>
+          <button onClick={()=> window.location = 'https://google.com'}>Contact Me</button>
     </LeftSection>
   </Section>
 );
